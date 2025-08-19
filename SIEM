@@ -1,0 +1,84 @@
+The Play: SIEM — The Eye That Never Sleeps
+Scene One: The Stage is Dark…
+(A deep narrator’s voice)
+
+In an age where data floats without limits, attacks multiply like fog on a rainy night. Servers tremble, firewalls collapse, and the IDS screams but finds no one to save it.
+
+But… it wasn’t always like this…
+
+The Scene Before Birth (Scene Zero)
+(Dim lighting, an old 90s screen flickering in green)
+
+Narrator: “The internet in its beginnings was like a small town… few houses, few roads. No one imagined it would turn into a massive continent crowded with millions of devices and users.”
+(A character “System Administrator” wearing a classic shirt sits in front of a primitive server)
+
+Admin: “All I need is to open the login record, review a few lines of syslog… and that’s it.”
+(The screen shows an old Unix syslog interface)
+
+The Next Scene: The Explosion
+(Graph lines race wildly across the screen)
+
+Narrator: “But the town grew. We had thousands of servers, hundreds of applications, millions of users. And with every expansion, the attacks multiplied.”
+(The admin stands terrified before a screen full of thousands of overlapping alerts)
+
+Admin: “I can’t… this is like searching for a needle in a haystack!”
+(Screens show Windows Event Viewer, Firewall logs, and CloudTrail piling up in chaos)
+
+Invention Scene: The Hero’s Idea
+(A scientist enters, wearing a white coat, holding a notebook filled with equations)
+
+Inventor: “Why not design one eye that sees everything? A system that collects logs from everywhere and links events together?”
+(Writes on the board: SIM + SEM = SIEM)
+
+Narrator: “And so the term was born: Security Information and Event Management. First appeared in the early 2000s, when the idea of Security Information Management (SIM) merged with Security Event Management (SEM).”
+(Behind him, ArcSight and Splunk logos appear as the first to bring the idea to life)
+
+Transformation Scene: Before and After
+(On stage, a screen splits in two: left shows the internet before SIEM — chaos of attacks and admins drowning in logs, right shows after SIEM — glowing dashboards, an SOC working efficiently).
+
+Narrator: “Before SIEM, networks were like kingdoms without eyes, blind to intruders slipping through their walls. After SIEM, came the power of unified vision, of detecting patterns, of anticipating attacks.”
+(Dashboards display real-time graphs)
+
+The Next Scene: The Hero Appears
+(Bright lights focus on a character wearing a technological cloak full of screens)
+
+SIEM: “I am not just one device… I am the collective memory. I gather logs from every server, every device, every application. Nothing passes without me seeing it.”
+(Background shows log streams from operating systems, networks, web applications, mobile devices)
+
+The lights pulse with every second…
+The “Hacker” enters, dressed in black, trying to sneak through network ports.
+
+Suddenly, SIEM’s screens light up with messages:
+
+“Failed login attempts x100”
+“Privilege escalation detected”
+“Suspicious lateral movement”
+(Alerts sound like drumbeats, synchronized with the actor’s movements)
+
+The Confrontation
+(SIEM raises his hand) “Intruder… you shall not pass!”
+
+Data walls form before him, live charts glowing red showing network traffic.
+
+The SOC experts’ crowd claps: “Now we see what was hidden!”
+
+(On the screen, real-time monitoring dashboards display event correlation rules)
+
+The Transformation
+(SIEM removes his cloak to reveal layers of artificial intelligence underneath)
+
+He says: “I am no longer just a log collector… I have become an analyst! I learn from the past to predict the future.”
+
+(Background shows lines of Machine Learning models and UEBA dashboards)
+
+The Ending
+The hacker collapses to the ground, trapped by the data exposing his every move.
+
+Narrator: “In a world of chaos, it was not the sword that protected kingdoms, but the eye that never sleeps.”
+The curtain falls, leaving on screen the logo: SIEM — The Eye of Cyber Defense
+
+👁
+
+Narrator: "In a world of chaos, it was not the sword that protected kingdoms, but the eye that never sleeps."
+
+(The curtain falls, leaving on screen the logo: SIEM – The Eye of Cyber Defense 👁️)
